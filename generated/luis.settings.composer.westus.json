@@ -1,0 +1,8 @@
+{
+    "luis": {
+        "getWeather_en_us_lu": {
+            "appId": "547cfa73-4ad2-45d2-a97f-b7b37b095175",
+            "version": "0.1"
+        }
+    }
+}
